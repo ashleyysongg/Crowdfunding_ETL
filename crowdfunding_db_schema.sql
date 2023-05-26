@@ -1,3 +1,4 @@
+CREATE DATABASE crowdfunding_db
 CREATE SCHEMA crowdfunding_db_schema
 CREATE TABLE crowdfunding_db_schema."Campaign" (
     "cf_id" int 	Primary Key,
